@@ -1,4 +1,3 @@
-
 # AI-Powered Moroccan Legal Advisor Chatbot
 
 An AI chatbot, accessible through a web interface, capable of finding information for legal inquiries and sharing the relevant sources.
@@ -72,3 +71,10 @@ Run the chatbot frontend:
 ```bash
 python -m streamlit run Accueil.py
 ```
+
+# BY PASTA CORP. / TEAM 89 --> MoroccoAI Hackathon 2024
+Taha El Hihi
+Andreas Salice
+Samy Sidki
+Pascalis Felahidis
+Ayman Zeriouh
