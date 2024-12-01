@@ -61,3 +61,14 @@ A special thanks to **Ilyass Allouchi** for his help with data sourcing and mode
 1. Ensure all dependencies are installed: `requirements.txt`.
 2. Add a `CHANGE.json` file to `/app/data` containing your Google Cloud Translate API JSON key.
 3. Add a `.env` file in the `/app` folder with the following content:
+
+Launch Instructions
+Run the chatbot backend:
+```bash
+python -m uvicorn fastapi_app:app --reload
+```
+
+Run the chatbot frontend:
+```bash
+python -m streamlit run Accueil.py
+```
